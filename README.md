@@ -9,10 +9,11 @@ that I created for one reason or another.
 Things I'm interested in:
 
 - Python (usually my first stop when I start writing something)
-- Jupyter Notebooks
 - Text Processing & ETL
-- AI/ML (particularly as applied to text)
-- CircuitPython & MicroPython (generally on the ESP8266)
-- Metadata and Structured Text (including abusing RFC822/MIME `.eml` files as a container format)
+- CircuitPython & MicroPython (generally on the ESP8266, ESP32, or Pi Pico)
+- Metadata and Structured Text (including abusing RFC822/MIME for unusual purposes)
 - Obsidian, Logseq, Evernote, and other "Tools For Thought"
 - Long-term digital preservation and archiving
+- Home automation, without vendor lock-in or "cloud" dependencies
+- Sensor networks, sensor data aggregation, MQTT, etc.
+- Building electronic toys, games, etc. for kids
